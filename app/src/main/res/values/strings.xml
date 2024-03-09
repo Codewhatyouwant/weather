@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="mon_march_04_10_00am">Mon March 04 | 10:00AM</string>
+    <string name="h_27_l_18">H:27 L:18</string>
+    <string name="_22">22%</string>
+    <string name="_12km_h">12km/h</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="_18">18%</string>
+    <string name="humidity">Humidity</string>
+    <string name="rain">Rain</string>
+    <string name="today">Today</string>
+    <string name="next_7_days"><![CDATA[Next 7 days >]]></string>
+    <string name="_20">20</string>
+    <string name="tomorow">Tommorow</string>
+    <string name="_25">25°</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="mostly_cloudy1">Mostly Cloudy</string>
+</resources>
